@@ -1,0 +1,13 @@
+.vs/
+.codegen/
+.intermediate/
+_bakeresourcecache/
+obj/
+accesslist.txt
+launchSettings.json
+tools_asset_info.bin
+tools_thumbnail_cache.bin
+*.csproj
+*.xml
+*.dll
+*.pdb
